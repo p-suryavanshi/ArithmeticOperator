@@ -20,7 +20,7 @@ The **ArithmeticOperator** Java project is designed to perform various arithmeti
    ```
 3. Compile the Java source files:
    ```bash
-   javac *.java
+   javac ArithmeticOperator.java
    ```
 4. Run the program:
    ```bash
@@ -31,6 +31,3 @@ The **ArithmeticOperator** Java project is designed to perform various arithmeti
 ## Requirements
 - Java Development Kit (JDK) version 8 or higher
 - A compatible IDE for Java development (optional)
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
